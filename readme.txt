@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I want to try it again.
 Creating a new branch is quick and simple.
+I want to try merge on-off.
